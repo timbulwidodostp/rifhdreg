@@ -1,5 +1,40 @@
-d 'DEA': Data envelopment analysis
+d 'rifhdreg': Recentered influence function regression with high-dimensional fixed effects Use rifhdreg With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f _ghvar.ado
+f _grifvar.ado
+f estfe.ado
+f hvar.sthlp
+f mrobust.ado
+f mrobust.sthlp
+f oaxaca_rif.ado
+f oaxaca_rif.sthlp
+f reghdfe.ado
+f reghdfe.mata
+f reghdfe.sthlp
+f reghdfe3.ado
+f reghdfe3.sthlp
+f reghdfe3_estat.ado
+f reghdfe3_footnote.ado
+f reghdfe3_p.ado
+f reghdfe5.ado
+f reghdfe5.mata
+f reghdfe5.sthlp
+f reghdfe5_estat.ado
+f reghdfe5_footnote.ado
+f reghdfe5_header.ado
+f reghdfe5_p.ado
+f reghdfe5_parse.ado
+f reghdfe_estat.ado
+f reghdfe_footnote.ado
+f reghdfe_header.ado
+f reghdfe_p.ado
+f reghdfe_programming.sthlp
+f rifhdreg.ado
+f rifhdreg.sthlp
+f rifsureg.ado
+f rifsureg.sthlp
+f rifsureg2.ado
+f rifsureg2.sthlp
+f rifvar.sthlp
+f uqreg.ado
+f uqreg.sthlp
