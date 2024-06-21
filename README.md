@@ -1,6 +1,8 @@
 # rifhdreg
 Recentered influence function regression with high-dimensional fixed effects Use rifhdreg With STATA 18
 
+https://www.youtube.com/watch?v=wEAReL6g9mk
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
